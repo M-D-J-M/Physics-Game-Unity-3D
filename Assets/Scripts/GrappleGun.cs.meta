@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34f7aa06e289b364c8ca445b1188ea36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunTip: {instanceID: 0}
+  - player: {fileID: 5395115938735412348, guid: 723aee8ede56df3488be3be85e646dfe, type: 3}
+  - camera: {instanceID: 0}
+  - WeaponDisplay: {instanceID: 0}
+  - weaponscript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

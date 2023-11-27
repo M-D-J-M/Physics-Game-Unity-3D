@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 180e2c86174e1e543bc9339507b473e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpdust: {fileID: 5744639022799616308, guid: 2284d6542a26cfd41ad0bf341744cd7e, type: 3}
+  - dust: {instanceID: 0}
+  - jump: {fileID: 8300000, guid: 70d06ce5169ef0449b12f1264fea7614, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
